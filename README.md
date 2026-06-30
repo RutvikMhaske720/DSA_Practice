@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2974-minimum-number-game) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
