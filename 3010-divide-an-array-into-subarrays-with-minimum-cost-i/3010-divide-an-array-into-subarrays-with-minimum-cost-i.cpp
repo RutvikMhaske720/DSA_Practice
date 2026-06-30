@@ -4,8 +4,7 @@
 class Solution {
 public:
     int minimumCost(std::vector<int>& nums) {
-        // min1 and min2 will store the two smallest values from index 1 onwards
-        int min1 = INT_MAX;
+       int min1 = INT_MAX;
         int min2 = INT_MAX;
         
        for (int i = 1; i < nums.size(); ++i) {
