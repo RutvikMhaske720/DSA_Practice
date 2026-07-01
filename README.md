@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Math
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
