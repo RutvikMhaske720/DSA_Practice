@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3074-apple-redistribution-into-boxes) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
