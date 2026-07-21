@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [2784-check-if-array-is-good](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3606-coupon-code-validator) |
 ## Tree
