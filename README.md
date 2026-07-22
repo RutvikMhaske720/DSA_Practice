@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0520-detect-capital) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
