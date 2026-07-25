@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
