@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0796-rotate-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3606-coupon-code-validator) |
 ## Tree
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
