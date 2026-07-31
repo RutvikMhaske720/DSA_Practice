@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3606-coupon-code-validator) |
 ## Tree
