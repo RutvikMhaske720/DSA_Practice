@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
