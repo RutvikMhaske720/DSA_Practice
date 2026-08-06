@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
