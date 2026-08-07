@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0520-detect-capital) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [1406-stone-game-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/1406-stone-game-iii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
