@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0830-positions-of-large-groups) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3606-coupon-code-validator) |
 ## Tree
