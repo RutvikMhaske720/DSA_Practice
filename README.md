@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0804-unique-morse-code-words) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
