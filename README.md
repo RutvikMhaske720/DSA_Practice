@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
 | [2974-minimum-number-game](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
 | [1406-stone-game-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [3024-type-of-triangle](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
