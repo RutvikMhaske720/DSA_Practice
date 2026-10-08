@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0344-reverse-string) |
