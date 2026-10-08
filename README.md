@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0344-reverse-string) |
 | [0482-license-key-formatting](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
