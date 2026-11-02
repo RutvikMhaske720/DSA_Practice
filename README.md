@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0748-shortest-completing-word](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0806-number-of-lines-to-write-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
@@ -203,8 +206,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rutvikmhaske720-create/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
